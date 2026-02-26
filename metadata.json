@@ -1,0 +1,5 @@
+{
+  "name": "Conversor de Extrato Bancário PDF",
+  "description": "Transforme extratos bancários PDF em arquivos Excel formatados para contabilidade.",
+  "requestFramePermissions": []
+}
